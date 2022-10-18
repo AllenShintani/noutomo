@@ -158,6 +158,7 @@ const HomePage: NextPage = () => {
           <chakra.h2 color="tomato">This is chakra-ui</chakra.h2>
         </Box>
       </Main>
+
       <Footer>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
